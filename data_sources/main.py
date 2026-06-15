@@ -1,8 +1,4 @@
-
-# /usr/bin/env python3
-# ============================================================
 # main.py  --  Daily auction data pull
-# ============================================================
 
 import argparse
 import logging
