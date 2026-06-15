@@ -12,6 +12,7 @@
 ---
 
 ## 📌 Overview
+<img width="1600" height="670" alt="image" src="https://github.com/user-attachments/assets/71e2ca8c-595a-4fbb-8f19-976b261de04f" />
 
 BidIQ is an end-to-end auction intelligence system built to solve a real personal problem: **how do you know whether to bid on a car at auction without spending hours manually researching each lot?**
 
