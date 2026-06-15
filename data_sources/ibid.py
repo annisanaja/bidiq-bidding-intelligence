@@ -1,7 +1,6 @@
 # ============================================================
 # scrapers/ibid.py
 # IBID Astra (ibid.astra.co.id) is a React SPA — uses Playwright.
-# Requires login.  Set IBID_EMAIL / IBID_PASSWORD in config.py.
 # ============================================================
 
 import re
