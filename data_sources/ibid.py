@@ -1,6 +1,6 @@
 # ============================================================
 # scrapers/ibid.py
-# IBID Astra (ibid.astra.co.id) is a React SPA — uses Playwright.
+# IBID Astra (ibid.astra.co.id) is a React SPA, uses Playwright.
 # ============================================================
 
 import re
