@@ -243,13 +243,3 @@ Business & Data Analyst | Civil Engineering → Analytics
 
 ## 📄 License
 Personal and educational use.
-# 🚗 BidIQ — Smart Bidding Intelligence
-### Automated Indonesian Car Auction Intelligence System
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
-![Playwright](https://img.shields.io/badge/Playwright-Scraping-2EAD33?style=flat&logo=playwright)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Live%20Data-34A853?style=flat&logo=google-sheets)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat)
-![Dashboard](https://img.shields.io/badge/Dashboard-bidiq.tiiny.site-7F77DD?style=flat)
-
-> **Live dashboard → [bidiq.tiiny.site](https://bidiq.tiiny.site)**
