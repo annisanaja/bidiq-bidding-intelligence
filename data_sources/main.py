@@ -2,11 +2,6 @@
 # /usr/bin/env python3
 # ============================================================
 # main.py  --  Daily auction data pull
-# Usage:
-#   python main.py              <- full run (all 3 sites)
-#   python main.py --auth       <- first-run Google auth only
-#   python main.py --site jba   <- single site  (jba | ibid | smartbid)
-#   python main.py --no-details <- skip detail pages (faster)
 # ============================================================
 
 import argparse
