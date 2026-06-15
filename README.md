@@ -169,8 +169,8 @@ Each lot is written to Google Sheets with the following fields:
 | `auction_fee_idr` | int | Calculated auction fee |
 | `transport_fee_idr` | int | Estimated transport to user city |
 | `total_cost_idr` | int | All-in cost to acquire |
-| `retail_price_idr` | int | Carmudi median retail price |
-| `estimated_profit` | int | retail − total_cost |
+| `retail_price_idr` | int | Mean retail price across bidding platforms for similar vehicle |
+| `estimated_profit` | int | retail, total_cost |
 | `profit_margin_pct` | float | profit / retail × 100 |
 | `roi_pct` | float | profit / total_cost × 100 |
 | `Score` | float | Composite score |
